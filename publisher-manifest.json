@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f7461d96f15c633dafa1f7f8",
+  "owner": "arjmps",
+  "repo": "page-c18038ff4756ba31cf66c2ff",
+  "title": "卡车极速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c18038ff4756ba31cf66c2ff",
+      "a": "卡车极速",
+      "b": "机场官网线路发布页",
+      "entity": "卡车极速",
+      "brand": "卡车极速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "54c85099b5a30eaa520c118e3592658bb062c64c233d737b6a774875ca7488a5",
+      "content": {
+        "primary_entity": "卡车极速",
+        "keyword1": "卡车极速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注为跨境物流、长途运输和高速网络需求人群提供稳定加速服务。基础版每月 ¥15 起含 100GB 流量，旗舰版每月 ¥35 配备 IPLC 专线并支持 5 台设备，团队版每月 ¥85 覆盖 1000GB 流量与 20 台设备。选择套餐后按设备系统安装对应客户端，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "重载网络一路畅行",
+          "AI_HERO_INTRO": "卡车极速为跨境物流、长途运输和高速网络需求人群提供稳定加速服务。基础版、旗舰版、团队版覆盖不同流量和设备数量，适合个人司机、车队调度与小型团队按需选择。",
+          "AI_VISUAL_TITLE": "重载网络一路畅行",
+          "AI_HIGHLIGHT_1": "每月 ¥15 起，按年付更优惠",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏加速",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "按流量、设备数量和线路需求选择合适版本，再搭配对应客户端使用。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人日常使用，旗舰版 300GB 适合多任务并行，团队版 1000GB 满足车队集中调度。",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TEXT_2": "单人出行选基础版 3 台设备，家庭或双司机选旗舰版 5 台设备，车队管理选团队版 20 台设备。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付更划算；基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "客户端设备选择",
+          "AI_CLIENTS_INTRO": "根据手机、电脑或路由器系统选择对应客户端，安装后导入订阅配置即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线优化；团队版每月 1000GB 流量、20 台设备，支持定制路由。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版或团队版中选定合适的版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与网络环境，选择对应的客户端版本并了解配置前提。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "按所选客户端的配置说明导入订阅信息，完成后即可连接使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卡车极速支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "支持常见的手机、电脑和路由器系统，具体以所选客户端版本为准。基础版可 3 台设备在线，旗舰版 5 台，团队版 20 台。",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_2": "套餐按月提供固定流量，用完后可等待下月重置，或升级到更高流量版本。旗舰版 300GB、团队版 1000GB 适合大流量场景。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付灵活，适合短期试用；年付价格更优惠，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_QUESTION_4": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_4": "先检查订阅信息是否完整，再确认客户端版本与文档说明一致。可尝试重新导入或联系优先工单支持协助排查。",
+          "AI_FAQ_QUESTION_5": "旗舰版的专线有什么优势？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线，针对游戏和实时传输优化，延迟表现更稳定，适合对网络质量要求较高的用户。",
+          "AI_CLOSING_TITLE": "选对套餐，一路畅行",
+          "AI_CLOSING_TEXT": "根据流量和设备需求选定版本，安装客户端导入订阅，即刻开始稳定加速。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sjhwl.cn",
+    "host": "sjhwl.cn"
+  },
+  "file_hashes": {
+    "index.html": "477a3a7da1fd5ac63436eba52fcdda63275ed66c0131469ea749bf79f425ed1d",
+    "sitemap.xml": "623fbf6852bbeb4c9b2ecf03caaca0893032d4ca299482d4c43016fb6450550a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ea92c0a93ea48b309df5fbf6e37289c7ba17e582fba4dd58f2186329d82f22fc",
+    "robots.txt": "6f845ed8689ec446c589c7b1fea7e19865ab151402017c9204407b2ce87fbd4c",
+    "cf80e99fffd14bf7ece4191fd6a24bdd.txt": "f53c03f0583abd4bfeb3b5e2dae4ee2706cc49cb7fdceaf56117d1045ce48082"
+  },
+  "revision": "294eb088a7dd50ebd83a27d1395bf40efce9854749c2391af4d944f07e23d4fb"
+}
